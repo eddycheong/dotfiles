@@ -124,6 +124,3 @@ fi
 if [ -x /usr/bin/mint-fortune ]; then
      /usr/bin/mint-fortune
 fi
-
-# Set wallpaper background with feh
-sh ~/.fehbg
